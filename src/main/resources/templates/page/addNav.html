@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>添加菜单</title>
+<link rel="stylesheet" href="/layui/css/layui.css" media="all" />
+</head>
+<body>
+<div class = "layui-row">
+	<div class="layui-col-md3">
+		<!-- <ul id="demo"></ul> -->345
+	</div>
+	<div class="layui-col-md9">
+	123
+	</div>
+</div>
+
+<script type="text/javascript" src="/layui/layui.js"></script>
+<script type="text/javascript">
+layui.use('tree', function(){
+	  var tree = layui.tree({
+	    elem: '#demo' //指定元素
+	    //,check: 'checkbox' //勾选风格
+	    ,skin: 'as' //设定皮肤
+	    //,target: '_blank' //是否新选项卡打开（比如节点返回href才有效）
+	    ,drag: true
+	    ,click: function(item){ //点击节点回调
+	      console.log(item)
+	    }
+	    ,nodes: [ //节点
+	      {
+	        name: '常用文件夹'
+	        ,id: 1
+	        ,alias: 'changyong'
+	        ,children: [
+	          {
+	            name: '所有未读'
+	            ,id: 11
+	            //,href: 'http://www.layui.com/'
+	            ,alias: 'weidu'
+	          }, {
+	            name: '置顶邮件'
+	            ,id: 12
+	          }, {
+	            name: '标签邮件'
+	            ,id: 13
+	          }
+	        ]
+	      }, {
+	        name: '我的邮箱'
+	        ,id: 2
+	        ,spread: true
+	        ,children: [
+	          {
+	            name: 'QQ邮箱'
+	            ,id: 21
+	            ,spread: true
+	            ,children: [
+	              {
+	                name: '收件箱'
+	                ,id: 211
+	                ,children: [
+	                  {
+	                    name: '所有未读'
+	                    ,id: 2111
+	                  }, {
+	                    name: '置顶邮件'
+	                    ,id: 2112
+	                  }, {
+	                    name: '标签邮件'
+	                    ,id: 2113
+	                  }
+	                ]
+	              }, {
+	                name: '已发出的邮件'
+	                ,id: 212
+	              }, {
+	                name: '垃圾邮件'
+	                ,id: 213
+	              }
+	            ]
+	          }, {
+	            name: '阿里云邮'
+	            ,id: 22
+	            ,children: [
+	              {
+	                name: '收件箱'
+	                ,id: 221
+	              }, {
+	                name: '已发出的邮件'
+	                ,id: 222
+	              }, {
+	                name: '垃圾邮件'
+	                ,id: 223
+	              }
+	            ]
+	          }
+	        ]
+	      }
+	    ]
+	  });
+	  
+	});
+
+</script>
+</body>
+</html>

@@ -1,0 +1,702 @@
+[
+	{
+		"describe": "半星",
+		"unicode": "&#xe6c9;",
+		"class": "layui-icon-rate-half"
+	},
+	{
+		"describe": "星星-空心",
+		"unicode": "&#xe6c9;",
+		"class": "layui-icon-rate-half"
+	},
+	{
+		"describe": "星星-实心",
+		"unicode": "&#xe67a;",
+		"class": "layui-icon-rate-solid"
+	},
+	{
+		"describe": "手机",
+		"unicode": "&#xe678;",
+		"class": "layui-icon-cellphone"
+	},
+	{
+		"describe": "验证码",
+		"unicode": "&#xe679;",
+		"class": "layui-icon-vercode"
+	},
+	{
+		"describe": "微信",
+		"unicode": "&#xe677;",
+		"class": "layui-icon-login-wechat"
+	},
+	{
+		"describe": "QQ",
+		"unicode": "&#xe676;",
+		"class": "layui-icon-login-qq"
+	},
+	{
+		"describe": "微博",
+		"unicode": "&#xe675;",
+		"class": "layui-icon-login-weibo"
+	},
+	{
+		"describe": "密码",
+		"unicode": "&#xe673;",
+		"class": "layui-icon-password"
+	},
+	{
+		"describe": "用户名",
+		"unicode": "&#xe66f;",
+		"class": "layui-icon-username"
+	},
+	{
+		"describe": "刷新-粗",
+		"unicode": "&#xe9aa;",
+		"class": "layui-icon-refresh-3"
+	},
+	{
+		"describe": "授权",
+		"unicode": "&#xe672;",
+		"class": "layui-icon-auz"
+	},
+	{
+		"describe": "左向右伸缩菜单",
+		"unicode": "&#xe66b;",
+		"class": "layui-icon-spread-left"
+	},
+	{
+		"describe": "右向左伸缩菜单",
+		"unicode": "&#xe668;",
+		"class": "layui-icon-shrink-right"
+	},
+	{
+		"describe": "雪花",
+		"unicode": "&#xe6b1;",
+		"class": "layui-icon-snowflake"
+	},
+	{
+		"describe": "提示说明",
+		"unicode": "&#xe702;",
+		"class": "layui-icon-tips"
+	},
+	{
+		"describe": "便签",
+		"unicode": "&#xe66e;",
+		"class": "layui-icon-note"
+	},
+	{
+		"describe": "主页",
+		"unicode": "&#xe68e;",
+		"class": "layui-icon-home"
+	},
+	{
+		"describe": "高级",
+		"unicode": "&#xe674;",
+		"class": "layui-icon-senior"
+	},
+	{
+		"describe": "刷新",
+		"unicode": "&#xe669;",
+		"class": "layui-icon-refresh"
+	},
+	{
+		"describe": "刷新",
+		"unicode": "&#xe666;",
+		"class": "layui-icon-refresh-1"
+	},
+	{
+		"describe": "旗帜",
+		"unicode": "&#xe66c;",
+		"class": "layui-icon-flag"
+	},
+	{
+		"describe": "主题",
+		"unicode": "&#xe66a;",
+		"class": "layui-icon-theme"
+	},
+	{
+		"describe": "消息-通知",
+		"unicode": "&#xe667;",
+		"class": "layui-icon-notice"
+	},
+	{
+		"describe": "网站",
+		"unicode": "&#xe7ae;",
+		"class": "layui-icon-website"
+	},
+	{
+		"describe": "控制台",
+		"unicode": "&#xe665;",
+		"class": "layui-icon-console"
+	},
+	{
+		"describe": "表情-惊讶",
+		"unicode": "&#xe664;",
+		"class": "layui-icon-face-surprised"
+	},
+	{
+		"describe": "设置-空心",
+		"unicode": "&#xe716;",
+		"class": "layui-icon-set"
+	},
+	{
+		"describe": "模板",
+		"unicode": "&#xe656;",
+		"class": "layui-icon-template-1"
+	},
+	{
+		"describe": "应用",
+		"unicode": "&#xe653;",
+		"class": "layui-icon-app"
+	},
+	{
+		"describe": "模板",
+		"unicode": "&#xe663;",
+		"class": "layui-icon-template"
+	},
+	{
+		"describe": "赞",
+		"unicode": "&#xe6c6;",
+		"class": "layui-icon-praise"
+	},
+	{
+		"describe": "踩",
+		"unicode": "&#xe6c5;",
+		"class": "layui-icon-tread"
+	},
+	{
+		"describe": "男",
+		"unicode": "&#xe662;",
+		"class": "layui-icon-male"
+	},
+	{
+		"describe": "女",
+		"unicode": "&#xe661;",
+		"class": "layui-icon-female"
+	},
+	{
+		"describe": "相机-空心",
+		"unicode": "&#xe660;",
+		"class": "layui-icon-camera"
+	},
+	{
+		"describe": "相机-实心",
+		"unicode": "&#xe65d;",
+		"class": "layui-icon-camera-fill"
+	},
+	{
+		"describe": "菜单-水平",
+		"unicode": "&#xe65f;",
+		"class": "layui-icon-more"
+	},
+	{
+		"describe": "菜单-垂直",
+		"unicode": "&#xe671;",
+		"class": "layui-icon-more-vertical"
+	},
+	{
+		"describe": "金额-人民币",
+		"unicode": "&#xe65e;",
+		"class": "layui-icon-rmb"
+	},
+	{
+		"describe": "金额-美元",
+		"unicode": "&#xe659;",
+		"class": "layui-icon-dollar"
+	},
+	{
+		"describe": "钻石-等级",
+		"unicode": "&#xe735;",
+		"class": "layui-icon-diamond"
+	},
+	{
+		"describe": "火",
+		"unicode": "&#xe756;",
+		"class": "layui-icon-fire"
+	},
+	{
+		"describe": "返回",
+		"unicode": "&#xe65c;",
+		"class": "layui-icon-return"
+	},
+	{
+		"describe": "位置-地图",
+		"unicode": "&#xe715;",
+		"class": "layui-icon-location"
+	},
+	{
+		"describe": "办公-阅读",
+		"unicode": "&#xe705;",
+		"class": "layui-icon-read"
+	},
+	{
+		"describe": "调查",
+		"unicode": "&#xe6b2;",
+		"class": "layui-icon-survey"
+	},
+	{
+		"describe": "表情-微笑",
+		"unicode": "&#xe6af;",
+		"class": "layui-icon-face-smile"
+	},
+	{
+		"describe": "表情-哭泣",
+		"unicode": "&#xe69c;",
+		"class": "layui-icon-face-cry"
+	},
+	{
+		"describe": "购物车",
+		"unicode": "&#xe698;",
+		"class": "layui-icon-cart-simple"
+	},
+	{
+		"describe": "购物车",
+		"unicode": "&#xe657;",
+		"class": "layui-icon-cart"
+	},
+	{
+		"describe": "下一页",
+		"unicode": "&#xe65b;",
+		"class": "layui-icon-next"
+	},
+	{
+		"describe": "上一页",
+		"unicode": "&#xe65a;",
+		"class": "layui-icon-prev"
+	},
+	{
+		"describe": "上传-空心-拖拽",
+		"unicode": "&#xe681;",
+		"class": "layui-icon-upload-drag"
+	},
+	{
+		"describe": "上传-实心",
+		"unicode": "&#xe67c;",
+		"class": "layui-icon-upload"
+	},
+	{
+		"describe": "下载-圆圈",
+		"unicode": "&#xe601;",
+		"class": "layui-icon-download-circle"
+	},
+	{
+		"describe": "组件",
+		"unicode": "&#xe857;",
+		"class": "layui-icon-component"
+	},
+	{
+		"describe": "文件-粗",
+		"unicode": "&#xe655;",
+		"class": "layui-icon-file-b"
+	},
+	{
+		"describe": "用户",
+		"unicode": "&#xe770;",
+		"class": "layui-icon-user"
+	},
+	{
+		"describe": "发现-实心",
+		"unicode": "&#xe670;",
+		"class": "layui-icon-find-fill"
+	},
+	{
+		"describe": "loading",
+		"unicode": "&#xe63d;",
+		"class": "layui-icon-loading"
+	},
+	{
+		"describe": "loading",
+		"unicode": "&#xe63e;",
+		"class": "layui-icon-loading-1"
+	},
+	{
+		"describe": "添加",
+		"unicode": "&#xe654;",
+		"class": "layui-icon-add-1"
+	},
+	{
+		"describe": "播放",
+		"unicode": "&#xe652;",
+		"class": "layui-icon-play"
+	},
+	{
+		"describe": "暂停",
+		"unicode": "&#xe651;",
+		"class": "layui-icon-pause"
+	},
+	{
+		"describe": "音频-耳机",
+		"unicode": "&#xe6fc;",
+		"class": "layui-icon-headset"
+	},
+	{
+		"describe": "视频",
+		"unicode": "&#xe6ed;",
+		"class": "layui-icon-video"
+	},
+	{
+		"describe": "语音-声音",
+		"unicode": "&#xe688;",
+		"class": "layui-icon-voice"
+	},
+	{
+		"describe": "消息-通知-喇叭",
+		"unicode": "&#xe645;",
+		"class": "layui-icon-speaker"
+	},
+	{
+		"describe": "删除线",
+		"unicode": "&#xe64f;",
+		"class": "layui-icon-fonts-del"
+	},
+	{
+		"describe": "代码",
+		"unicode": "&#xe64e;",
+		"class": "layui-icon-fonts-code"
+	},
+	{
+		"describe": "HTML",
+		"unicode": "&#xe64b;",
+		"class": "layui-icon-fonts-html"
+	},
+	{
+		"describe": "字体加粗",
+		"unicode": "&#xe62b;",
+		"class": "layui-icon-fonts-strong"
+	},
+	{
+		"describe": "删除链接",
+		"unicode": "&#xe64d;",
+		"class": "layui-icon-unlink"
+	},
+	{
+		"describe": "图片",
+		"unicode": "&#xe64a;",
+		"class": "layui-icon-picture"
+	},
+	{
+		"describe": "链接",
+		"unicode": "&#xe64c;",
+		"class": "layui-icon-link"
+	},
+	{
+		"describe": "表情-笑-粗",
+		"unicode": "&#xe650;",
+		"class": "layui-icon-face-smile-b"
+	},
+	{
+		"describe": "左对齐",
+		"unicode": "&#xe649;",
+		"class": "layui-icon-align-left"
+	},
+	{
+		"describe": "右对齐",
+		"unicode": "&#xe648;",
+		"class": "layui-icon-align-right"
+	},
+	{
+		"describe": "居中对齐",
+		"unicode": "&#xe647;",
+		"class": "layui-icon-align-center"
+	},
+	{
+		"describe": "字体-下划线",
+		"unicode": "&#xe646;",
+		"class": "layui-icon-fonts-u"
+	},
+	{
+		"describe": "字体-斜体",
+		"unicode": "&#xe644;",
+		"class": "layui-icon-fonts-i"
+	},
+	{
+		"describe": "Tabs 选项卡",
+		"unicode": "&#xe62a;",
+		"class": "layui-icon-tabs"
+	},
+	{
+		"describe": "单选框-选中",
+		"unicode": "&#xe643;",
+		"class": "layui-icon-radio"
+	},
+	{
+		"describe": "单选框-候选",
+		"unicode": "&#xe63f;",
+		"class": "layui-icon-circle"
+	},
+	{
+		"describe": "编辑",
+		"unicode": "&#xe642;",
+		"class": "layui-icon-edit"
+	},
+	{
+		"describe": "分享",
+		"unicode": "&#xe641;",
+		"class": "layui-icon-share"
+	},
+	{
+		"describe": "删除",
+		"unicode": "&#xe640;",
+		"class": "layui-icon-delete"
+	},
+	{
+		"describe": "表单",
+		"unicode": "&#xe63c;",
+		"class": "layui-icon-form"
+	},
+	{
+		"describe": "手机-细体",
+		"unicode": "&#xe63b;",
+		"class": "layui-icon-cellphone-fine"
+	},
+	{
+		"describe": "聊天 对话 沟通",
+		"unicode": "&#xe63a;",
+		"class": "layui-icon-dialogue"
+	},
+	{
+		"describe": "文字格式化",
+		"unicode": "&#xe639;",
+		"class": "layui-icon-fonts-clear"
+	},
+	{
+		"describe": "窗口",
+		"unicode": "&#xe638;",
+		"class": "layui-icon-layer"
+	},
+	{
+		"describe": "日期",
+		"unicode": "&#xe637;",
+		"class": "layui-icon-date"
+	},
+	{
+		"describe": "水 下雨",
+		"unicode": "&#xe636;",
+		"class": "layui-icon-water"
+	},
+	{
+		"describe": "代码-圆圈",
+		"unicode": "&#xe635;",
+		"class": "layui-icon-code-circle"
+	},
+	{
+		"describe": "轮播组图",
+		"unicode": "&#xe634;",
+		"class": "layui-icon-carousel"
+	},
+	{
+		"describe": "翻页",
+		"unicode": "&#xe633;",
+		"class": "layui-icon-prev-circle"
+	},
+	{
+		"describe": "布局",
+		"unicode": "&#xe632;",
+		"class": "layui-icon-layouts"
+	},
+	{
+		"describe": "工具",
+		"unicode": "&#xe631;",
+		"class": "layui-icon-util"
+	},
+	{
+		"describe": "选择模板",
+		"unicode": "&#xe630;",
+		"class": "layui-icon-templeate-1"
+	},
+	{
+		"describe": "上传-圆圈",
+		"unicode": "&#xe62f;",
+		"class": "layui-icon-upload-circle"
+	},
+	{
+		"describe": "树",
+		"unicode": "&#xe62e;",
+		"class": "layui-icon-tree"
+	},
+	{
+		"describe": "表格",
+		"unicode": "&#xe62d;",
+		"class": "layui-icon-table"
+	},
+	{
+		"describe": "图表",
+		"unicode": "&#xe62c;",
+		"class": "layui-icon-chart"
+	},
+	{
+		"describe": "图标 报表 屏幕",
+		"unicode": "&#xe629;",
+		"class": "layui-icon-chart-screen"
+	},
+	{
+		"describe": "引擎",
+		"unicode": "&#xe628;",
+		"class": "layui-icon-engine"
+	},
+	{
+		"describe": "下三角",
+		"unicode": "&#xe625;",
+		"class": "layui-icon-triangle-d"
+	},
+	{
+		"describe": "右三角",
+		"unicode": "&#xe623;",
+		"class": "layui-icon-triangle-r"
+	},
+	{
+		"describe": "文件",
+		"unicode": "&#xe621;",
+		"class": "layui-icon-file"
+	},
+	{
+		"describe": "设置-小型",
+		"unicode": "&#xe620;",
+		"class": "layui-icon-set-sm"
+	},
+	{
+		"describe": "添加-圆圈",
+		"unicode": "&#xe61f;",
+		"class": "layui-icon-add-circle"
+	},
+	{
+		"describe": "404",
+		"unicode": "&#xe61c;",
+		"class": "layui-icon-404"
+	},
+	{
+		"describe": "关于",
+		"unicode": "&#xe60b;",
+		"class": "layui-icon-about"
+	},
+	{
+		"describe": "箭头 向上",
+		"unicode": "&#xe619;",
+		"class": "layui-icon-up"
+	},
+	{
+		"describe": "箭头 向下",
+		"unicode": "&#xe61a;",
+		"class": "layui-icon-down"
+	},
+	{
+		"describe": "箭头 向左",
+		"unicode": "&#xe603;",
+		"class": "layui-icon-left"
+	},
+	{
+		"describe": "箭头 向右",
+		"unicode": "&#xe602;",
+		"class": "layui-icon-right"
+	},
+	{
+		"describe": "圆点",
+		"unicode": "&#xe617;",
+		"class": "layui-icon-circle-dot"
+	},
+	{
+		"describe": "搜索",
+		"unicode": "&#xe615;",
+		"class": "layui-icon-search"
+	},
+	{
+		"describe": "设置-实心",
+		"unicode": "&#xe614;",
+		"class": "layui-icon-set-fill"
+	},
+	{
+		"describe": "群组",
+		"unicode": "&#xe613;",
+		"class": "layui-icon-group"
+	},
+	{
+		"describe": "好友",
+		"unicode": "&#xe612;",
+		"class": "layui-icon-friends"
+	},
+	{
+		"describe": "回复 评论 实心",
+		"unicode": "&#xe611;",
+		"class": "layui-icon-reply-fill"
+	},
+	{
+		"describe": "菜单 隐身 实心",
+		"unicode": "&#xe60f;",
+		"class": "layui-icon-menu-fill"
+	},
+	{
+		"describe": "记录",
+		"unicode": "&#xe60e;",
+		"class": "layui-icon-log"
+	},
+	{
+		"describe": "图片-细体",
+		"unicode": "&#xe60d;",
+		"class": "layui-icon-picture-fine"
+	},
+	{
+		"describe": "表情-笑-细体",
+		"unicode": "&#xe60c;",
+		"class": "layui-icon-face-smile-fine"
+	},
+	{
+		"describe": "列表",
+		"unicode": "&#xe60a;",
+		"class": "layui-icon-list"
+	},
+	{
+		"describe": "发布 纸飞机",
+		"unicode": "&#xe609;",
+		"class": "layui-icon-release"
+	},
+	{
+		"describe": "对 OK",
+		"unicode": "&#xe605;",
+		"class": "layui-icon-ok"
+	},
+	{
+		"describe": "帮助",
+		"unicode": "&#xe607;",
+		"class": "layui-icon-help"
+	},
+	{
+		"describe": "客服",
+		"unicode": "&#xe606;",
+		"class": "layui-icon-chat"
+	},
+	{
+		"describe": "top 置顶",
+		"unicode": "&#xe604;",
+		"class": "layui-icon-top"
+	},
+	{
+		"describe": "收藏-空心",
+		"unicode": "&#xe600;",
+		"class": "layui-icon-star"
+	},
+	{
+		"describe": "收藏-实心",
+		"unicode": "&#xe658;",
+		"class": "layui-icon-star-fill"
+	},
+	{
+		"describe": "关闭-实心",
+		"unicode": "&#x1007;",
+		"class": "layui-icon-close-fill"
+	},
+	{
+		"describe": "关闭-空心",
+		"unicode": "&#x1006;",
+		"class": "layui-icon-close"
+	},
+	{
+		"describe": "正确",
+		"unicode": "&#x1005;",
+		"class": "layui-icon-ok-circle"
+	},
+	{
+		"describe": "添加-圆圈-细体",
+		"unicode": "&#xe608;",
+		"class": "layui-icon-add-circle-fine"
+	}
+]

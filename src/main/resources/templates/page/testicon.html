@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="/layui/css/layui.css" media="all" />
+<script type="text/javascript" src="/layui/layui.js"></script>
+</head>
+<body>
+<form class="layui-form" action="">
+	<div class="layui-form-item">
+		<label class="layui-form-label">选择框</label>
+		<div class="layui-input-block">
+			<select name="icon" id="icon" lay-verify="required">
+
+			</select>
+		</div>
+	</div>
+	</form>
+	<script type="text/javascript" src="/js/jquery-3.3.1.js"></script>
+	<script type="text/javascript">
+	layui.use('form', function(){
+		  var form = layui.form;
+	})
+		$.ajax({
+			type : 'get',
+			url : '/json/fonticon.json',
+			dataType : 'json',
+			success : function(data) {
+				getmessage(data);
+			}
+		});
+		function init(obj) {
+			return $(obj).html("<option>------请选择------</option>");
+		}
+		function getmessage(data) {
+			init($('#icon'));
+			for (var i = 0; i < data.length; i++) {
+				var result = "<option value='" + data[i].class + "'>"
+				+"<i class='layui-icon " +data[i].class +  "'>"+data[i].describe +"</i>"
+				+ "</option>";
+				$('#icon').append(result);
+			}
+		}
+	</script>
+</body>
+</html>

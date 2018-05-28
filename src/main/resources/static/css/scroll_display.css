@@ -1,0 +1,8 @@
+@charset "UTF-8";
+::-webkit-scrollbar{
+  display:none;
+}
+html {
+    -ms-overflow-style:none;
+    overflow:-moz-scrollbars-none;
+}
